@@ -1,4 +1,4 @@
 # student-class
 this is my first repository
 <br>
-Author-Amar Kumar
+Author-Amar Kumar(web developer)
